@@ -88,7 +88,7 @@ Hello I'm Daisy Johnson ,
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ Aᴅᴅ ʟᴏᴠᴇʟʏ ᴛᴏ ɢʀᴏᴜᴘ ➕️", url="t.me/LOVELYR_OBOT?startgroup=true"),
+            text="➕️ Aᴅᴅ ʟᴏᴠᴇʟʏ ᴛᴏ ɢʀᴏᴜᴘ ➕️", url="t.me/daisy_johnson_0bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ℹ️Aʙᴏᴜᴛ", callback_data="masha_"),
@@ -120,7 +120,7 @@ HELP_STRINGS = """
 ༆*DAISY JOHNSON comes with many special features in it*༆
 ꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF LOVELY*꧂
 𖣘 *All commands can either be used with* `/` *or* `!`.
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @LOVELYAPPEAL* [.](https://telegra.ph/file/2f725b59802b7e270ba15.jpg)
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @godkiller_mark2_sinx* [.](https://telegra.ph/file/2f725b59802b7e270ba15.jpg)
 """
 
 
