@@ -8,10 +8,10 @@ from telegram.ext import (run_async,
                           Filters, CommandHandler,
                           CallbackQueryHandler)
 
-from MashaRoBot import dispatcher, REDIS
+from MashaRoBot import dispatcher, mongo_client
 from MashaRoBot.modules.disable import DisableAbleCommandHandler
 from MashaRoBot.modules.helper_funcs.chat_status import (
-    bot_admin,
+    bot_admin, 
     user_admin
 )
 from MashaRoBot.modules.helper_funcs.extraction import extract_user_and_text
