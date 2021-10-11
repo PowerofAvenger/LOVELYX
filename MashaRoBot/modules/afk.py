@@ -66,6 +66,13 @@ def no_longer_afk(update: Update, context: CallbackContext):
                 "{} is finally here!",
                 "Welcome back! {}",
                 "Where is {}?\nIn the chat!",
+                "{} Go to hell nobody called you",
+                "{} Go back!",
+                "{} Why afk if you wanted to come back bruh!!",
+                " {} No body called you please don't trash the chat",
+                " Get a life bruh!",
+                " Welcome back {} , but nobody missed you sad!",
+                " When going back afk 😂",
             ]
             chosen_option = random.choice(options)
             update.effective_message.reply_text(chosen_option.format(firstname))
